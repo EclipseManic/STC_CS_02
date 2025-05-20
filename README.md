@@ -1,4 +1,4 @@
-# Image Encryption Tool
+# Image Encryption Tool @Author :- EclipseManic
 
 A simple Python tool for encrypting/decrypting images using pixel manipulation techniques.
 
